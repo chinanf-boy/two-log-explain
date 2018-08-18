@@ -37,8 +37,25 @@
 
 ---
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+### 目录
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [日志](#%E6%97%A5%E5%BF%97)
+  - [可以让人明白内部运行的情况](#%E5%8F%AF%E4%BB%A5%E8%AE%A9%E4%BA%BA%E6%98%8E%E7%99%BD%E5%86%85%E9%83%A8%E8%BF%90%E8%A1%8C%E7%9A%84%E6%83%85%E5%86%B5)
+  - [但是, 但多数使用的人并不想看到那么多的输出](#%E4%BD%86%E6%98%AF-%E4%BD%86%E5%A4%9A%E6%95%B0%E4%BD%BF%E7%94%A8%E7%9A%84%E4%BA%BA%E5%B9%B6%E4%B8%8D%E6%83%B3%E7%9C%8B%E5%88%B0%E9%82%A3%E4%B9%88%E5%A4%9A%E7%9A%84%E8%BE%93%E5%87%BA)
+  - [其实, 还可以使用主要给作者自身看的](#%E5%85%B6%E5%AE%9E-%E8%BF%98%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E4%B8%BB%E8%A6%81%E7%BB%99%E4%BD%9C%E8%80%85%E8%87%AA%E8%BA%AB%E7%9C%8B%E7%9A%84)
+- [命令行触发](#%E5%91%BD%E4%BB%A4%E8%A1%8C%E8%A7%A6%E5%8F%91)
+  - [是否调试模式](#%E6%98%AF%E5%90%A6%E8%B0%83%E8%AF%95%E6%A8%A1%E5%BC%8F)
+- [主要有三个生命周期方式](#%E4%B8%BB%E8%A6%81%E6%9C%89%E4%B8%89%E4%B8%AA%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E6%96%B9%E5%BC%8F)
+  - [ora的角度](#ora%E7%9A%84%E8%A7%92%E5%BA%A6)
+  - [winston的角度](#winston%E7%9A%84%E8%A7%92%E5%BA%A6)
+- [package.json](#packagejson)
+- [index.js](#indexjs)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 日志
 
