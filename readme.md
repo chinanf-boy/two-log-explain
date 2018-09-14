@@ -20,7 +20,7 @@
 <!-- commit = 'v0.0.11' -->
 版本 | 与日期 | 最新更新 | 更多
 ---|---|---|---
-[v0.0.11][commit] | ⏰ 2018 8.15 | ![version] | [源码解释][source]
+[commit] | ⏰ 2018 8.15 | ![version] | [源码解释][source]
 
 [commit]: https://github.com/chinanf-boy/two-log/tree/v0.0.11
 [version]: https://img.shields.io/npm/v/two-log.svg
